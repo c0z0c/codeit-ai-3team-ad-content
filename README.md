@@ -1,5 +1,11 @@
 # Codeit AI 3팀 - 생성형 AI 기반 소상공인을 위한 광고 콘텐츠 제작 서비스 
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)
+![GCP](https://img.shields.io/badge/GCP-L4%20GPU-green)
+
+
 ---
 
 ## 1. 프로젝트 개요
@@ -21,6 +27,18 @@
 - 박지윤: 추가 예정
 - 이건희: 추가 예정
 - 이솔형: 추가 예정
+
+### 📝 협업일지
+
+팀원별 개발 과정 및 학습 내용을 기록한 협업일지입니다.
+- [김명환 협업일지 (Project Manager)](https://krapnuyij.github.io/codeit-ai-3team-ad-content/협업일지/김명환/)
+- [김민혁 협업일지 (Project Manager)](https://krapnuyij.github.io/codeit-ai-3team-ad-content/협업일지/김민혁/)
+- [박지윤 협업일지 (Project Manager)](https://krapnuyij.github.io/codeit-ai-3team-ad-content/협업일지/박지윤/)
+- [이건희 협업일지 (Project Manager)](https://krapnuyij.github.io/codeit-ai-3team-ad-content/협업일지/이건희/)
+- [이슬형 협업일지 (Project Manager)](https://krapnuyij.github.io/codeit-ai-3team-ad-content/협업일지/이슬형/)
+
+- [팀 회의록](https://krapnuyij.github.io/codeit-ai-3team-ad-content/회의록/)
+
 
 ---
 
